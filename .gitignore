@@ -1,0 +1,16 @@
+# Archivos y carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+Logs/
+MemoryCaptures/
+*.apk
+*.aab
+*.keystore
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
